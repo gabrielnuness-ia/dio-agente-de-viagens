@@ -1,6 +1,6 @@
 # 🌎 Agente de Viagens Internacionais
 
-Dio é um assistente virtual especializado que fornece informações e serviços relacionados a viagens internacionais, desenvolvido na plataforma Superagentes.
+Dio é um assistente virtual especializado que fornece informações e serviços relacionados a viagens internacionais, conforme solicitado no mini curso "Criando seu primeiro Copiloto no Microsoft Copilot Studio".
 
 ## 📋 Funcionalidades
 
